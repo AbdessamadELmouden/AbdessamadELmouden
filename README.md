@@ -61,11 +61,10 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-    <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=0xSkyzoX&hide_border=true&theme=dark" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=0xSkyzoX&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSkyzoX&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
-</p>
+    <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdessamadELmouden&hide_border=true&theme=dark" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=AbdessamadELmouden&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
+  </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=0xSkyzoX&theme=onedark&column=-1)
+![trophy](https://github-profile-trophy.vercel.app/?username=AbdessamadELmouden&theme=onedark&column=-1)
 
 ## ⭐ My Projects are disclosed
